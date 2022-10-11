@@ -28,7 +28,7 @@ Or our money back.
 
 7. If you want a few paragraphs that will make the ladies squeal, clack away, and make sure to replace that hashity-tag with a number:
 
-	    npm run hr-gensen #
+	    npm run hr-genpar #
 
 8. Enjoy your cold one, and the glory that is the Homest...wait. Why in the crap was it named after HIM?
 

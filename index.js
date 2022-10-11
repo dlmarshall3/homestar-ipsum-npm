@@ -29,9 +29,9 @@ class GenerateHomestarText{
     getMultipleParagraphs(numberOfParagraphs){
         let multipleParagraphs = [];
         while (multipleParagraphs.length < numberOfParagraphs){
-            multipleParagraphs.push(`\n ${this.getOneParagraph()} \n \n`);
+            multipleParagraphs.push(`${this.getOneParagraph()}`);
         }
-        return multipleParagraphs.join(' ');
+        return multipleParagraphs;
     }
 }
 
