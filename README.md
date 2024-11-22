@@ -32,10 +32,6 @@ Or our money back.
 
 8. Enjoy your cold one, and the glory that is the Homest...wait. Why in the crap was it named after HIM?
 
-
-## About the developer
-I'm no one special. I just like Homestar Runner (I mean, I have a Li'l Brudder tattoo on my leg), and I thought it'd be fun to make a Homestar Ipsum generator. You can check out my portfolio here: https://davidmarshall.dev. If you like what I've done here, it'd be cool to throw me a cold or something? No pressure. VENMO: @tipperbeanfad. My avatar is a picture of Bender from Futurama.
-
 ## FAQ
 <strong>When are you going to add more emails to the transcript file?</strong>
 
